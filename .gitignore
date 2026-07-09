@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+node_modules/
+dist/
+build/
+*.log
+backend/uploads/*
+!backend/uploads/.gitkeep
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
